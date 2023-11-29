@@ -1,0 +1,18 @@
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\bin\Debug\net6.0\Laboration 22.exe
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\bin\Debug\net6.0\Laboration 22.deps.json
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\bin\Debug\net6.0\Laboration 22.runtimeconfig.json
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\bin\Debug\net6.0\Laboration 22.dll
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\bin\Debug\net6.0\Laboration 22.pdb
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\obj\Debug\net6.0\Laboration 22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\obj\Debug\net6.0\Laboration 22.AssemblyInfoInputs.cache
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\obj\Debug\net6.0\Laboration 22.AssemblyInfo.cs
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\obj\Debug\net6.0\Laboration 22.csproj.CoreCompileInputs.cache
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\obj\Debug\net6.0\Laboration 22.dll
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\obj\Debug\net6.0\refint\Laboration 22.dll
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\obj\Debug\net6.0\Laboration 22.pdb
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\obj\Debug\net6.0\Laboration 22.genruntimeconfig.cache
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\obj\Debug\net6.0\ref\Laboration 22.dll
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\bin\Debug\net6.0\TrueColorConsole.dll
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\obj\Debug\net6.0\Laboration 22.csproj.AssemblyReference.cache
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\Laboration 22\Laboration 22\obj\Debug\net6.0\Laboration 22.csproj.CopyComplete
